@@ -24,7 +24,7 @@ namespace WindowsFormsApp20220319
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            label1.Text = "";
         }
     }
 }
