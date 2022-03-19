@@ -26,5 +26,10 @@ namespace WindowsFormsApp20220319
         {
             label1.Text = "";
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            label1.Text = "Hello " + textBox1.Text;
+        }
     }
 }
